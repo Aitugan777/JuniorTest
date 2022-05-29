@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<DataBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Literatures>
+    <Literature ID="0" Name="Гарри Поттер" Description="Про хогвартс" Author="Иргалин А.И." DateAdded="26.05.2022 22:04:46">
+      <Content>
+        <Text>страница 1</Text>
+        <Text>Страница 2</Text>
+        <Text>Новая страница</Text>
+      </Content>
+    </Literature>
+    <Literature ID="1" Name="Сверхьестественное" Description="Про чудовишь" Author="Иргалин А.И." DateAdded="26.05.2022 22:15:52">
+      <Content>
+        <Text>Первая серия</Text>
+        <Text>Вторая серия</Text>
+        <Text>Сэм и Дин</Text>
+        <Text>Кастиэль</Text>
+        <Text>Каин</Text>
+      </Content>
+    </Literature>
+  </Literatures>
+</DataBase>

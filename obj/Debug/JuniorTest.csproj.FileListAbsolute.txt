@@ -1,0 +1,12 @@
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\JuniorTest\bin\Debug\JuniorTest.exe.config
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\JuniorTest\bin\Debug\JuniorTest.exe
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\JuniorTest\bin\Debug\JuniorTest.pdb
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\JuniorTest\obj\Debug\JuniorTest.csproj.AssemblyReference.cache
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\JuniorTest\obj\Debug\JuniorTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\JuniorTest\obj\Debug\JuniorTest.Properties.Resources.resources
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\JuniorTest\obj\Debug\JuniorTest.csproj.GenerateResource.cache
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\JuniorTest\obj\Debug\JuniorTest.csproj.CoreCompileInputs.cache
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\JuniorTest\obj\Debug\JuniorTest.exe
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\JuniorTest\obj\Debug\JuniorTest.pdb
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\JuniorTest\obj\Debug\JuniorTest.AddLiterature.resources
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\JuniorTest\obj\Debug\JuniorTest.StartForm.resources
